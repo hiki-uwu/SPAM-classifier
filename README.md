@@ -1,7 +1,3 @@
-# SPAM-classifier
-
-A vibe-coded spam classifier powered by BERT, developed in Jupyter Notebook.
-
 ## Overview
 
 This project uses BERT (Bidirectional Encoder Representations from Transformers) to classify messages as spam or not spam. The primary goal is to provide a robust and accurate model for spam detection using state-of-the-art natural language processing techniques.
